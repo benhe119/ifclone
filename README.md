@@ -1,8 +1,7 @@
 Aim:
 ----
 
-TODO
-
+I was personally interested into dumping some private vlan traffic on some blackbox MIPS device to anotherbox for further analysis. I don't know if anybody else can be interested of doing anything with this tho.
 
 Compilation:
 ------------
